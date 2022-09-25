@@ -3,7 +3,7 @@
 
 In order to generate tsconfig.json 
 ```
-tsc init 
+tsc --init 
 ``` 
 
 Compile the `.ts`file to `.js` with 
