@@ -1,6 +1,4 @@
-// it seems like "name" should be an argument in the function above, but 
 function Person(name) {
-      // "name" is also available here, because "Person" is a constructor function
    this.name = name
 }
 
